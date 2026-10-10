@@ -1,0 +1,6 @@
+[submodule "ConfigurableFirmata"]
+	path = ConfigurableFirmata
+	url = https://github.com/firmata/ConfigurableFirmata.git
+[submodule "tools/firmata_test"]
+	path = tools/firmata_test
+	url = https://github.com/firmata/firmata_test.git
